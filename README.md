@@ -1,5 +1,7 @@
 # Jupyter Notebooks
 
+[![DOI](https://zenodo.org/badge/99646958.svg)](https://zenodo.org/badge/latestdoi/99646958)
+
 The files in this repository are the supplemetary materials of the paper published in
 Applied Science Journal of MDPI.
 
